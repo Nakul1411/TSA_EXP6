@@ -18,10 +18,7 @@ Winters model to the entire dataset and make future predictions
 
 ### PROGRAM:
 
-```
-Name : Prakash C
-Reg.No : 212223240122
-```
+
 ```
 import pandas as pd
 import numpy as np
